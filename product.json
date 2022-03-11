@@ -1,0 +1,50 @@
+[
+ {
+     "Name":"AIR JORDAN",
+     "price":180,
+     "rating":4.5,
+     "company":"adidas"
+ },
+ {
+    "Name":"YEEZY BOOST",
+    "price":150,
+    "rating":4.0,
+    "company":"nike"
+},
+{
+    "Name":"PUMA 2",
+    "price": 140,
+    "rating":4.2,
+    "company":"puma"
+},
+{
+    "Name":"ADIDAS RUNS",
+    "price": 160,
+    "rating":4.0,
+    "company":"adidas"
+},
+{
+    "Name":"CROCS",
+    "price":100,
+    "rating":4.0,
+    "company":"adidas"
+},
+{
+    "Name":"PUMA",
+    "price":170,
+    "rating":4.0,
+    "company":"puma"
+},
+{
+    "Name":"AIR FORCE 1",
+    "price": 200,
+    "rating":4.2,
+    "company":"nike"
+},
+{
+    "Name":"BALANCIAGA",
+    "price":250,
+    "rating":4.1,
+    "company":"nike"
+}
+]
